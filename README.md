@@ -13,4 +13,4 @@ E em seguida, na pasta ``logitrack``, executar o comando:
 ```
 $ expo start
 ```
-Agora, com o expo go instalado em seu aparelho, basta escanear o QR code para iniciar a aplicação.
+Agora, com o expo go instalado em seu aparelho celular, basta escanear o QR code para iniciar a aplicação.
