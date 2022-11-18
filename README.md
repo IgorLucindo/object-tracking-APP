@@ -5,4 +5,4 @@ Aplicação para rastrear produtos identificados por um QR code, salvando suas i
 Basta rodar o seguinte comando caso não tenha o expo instalado no computador:
 npm install expo
 E em seguida:
-expo init
+expo start
