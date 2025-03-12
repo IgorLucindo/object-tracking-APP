@@ -4,7 +4,7 @@ Application for tracking products identified by a QR code, storing its informati
 
 # Requirements
 
-Need to have ``Node.js`` installed on your computer and ``expo go`` app installed on your mobile device.
+Need to have ``node.js`` installed on your computer and ``expo go`` app installed on your mobile device.
 
 # Setup
 
