@@ -1,16 +1,26 @@
-# LogiTrack
-Aplicação para rastrear produtos identificados por um QR code, salvando suas informações em um banco de dados.
+# Product Tracking
 
-# Requisitos
-É necessário ter o node js instalado.
+Application for tracking products identified by a QR code, storing its informations in a database.
 
-# Execução da aplicação
-Caso não tenha o expo instalado, é preciso rodar o seguinte comando para instalá-lo:
+# Requirements
+
+Need to have ``Node.js`` installed on your computer and ``expo go`` app installed on your mobile device.
+
+# Setup
+
+For installing the application in your computer run the following command:
+
 ```
-$ npm install --global expo-cli
+npm install --global expo-cli
 ```
-E em seguida, na pasta ``logitrack``, executar o comando:
+
+# Execution
+
+Run the following command for initiating the application in your computer:
+
 ```
-$ expo start
+cd application
+expo start
 ```
-Agora, com o expo go instalado em seu aparelho celular, basta escanear o QR code para iniciar a aplicação.
+
+Now, open the ``expo go`` app and scan the QR code to open the our app in your device.
